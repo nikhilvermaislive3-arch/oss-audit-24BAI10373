@@ -1,7 +1,7 @@
 ## Student Details
 
-- Name: Vedant Kothari
-- Registration Number: 24BEY10539
+- Name: Nikhil Verma
+- Registration Number: 24BAI10373
 - Course: Open Source Software  
 
 
