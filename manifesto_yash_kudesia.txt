@@ -1,0 +1,6 @@
+
+Open Source Manifesto
+----------------------
+Date: 28 March 2026
+
+I believe that open source is about education. Tools like vlc help me learn and grow every day. In the future, I aim to build free education to all and share it freely with others so that everyone can benefit.
