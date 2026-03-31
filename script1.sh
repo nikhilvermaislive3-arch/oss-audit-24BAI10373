@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script 1: System Identity Report
 
-STUDENT_NAME="Bhosdi"
+STUDENT_NAME="Nikhil"
 SOFTWARE_CHOICE="VLC Media Player"
 
 KERNEL=$(uname -r)
