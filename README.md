@@ -1,7 +1,7 @@
 ## Student Details
 
-- Name: Yash Kudesia  
-- Registration Number: 24BEY10099  
+- Name: Vedant Kothari
+- Registration Number: 24BEY10539
 - Course: Open Source Software  
 
 
