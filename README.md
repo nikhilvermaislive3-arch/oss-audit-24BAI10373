@@ -50,10 +50,10 @@ Output: manifesto_nikhilVerma.txt
 ## How to Run
 
 ### Step 1: Clone the repository
-git clone https://github.com/nikhilvermaislive-arch/oss-audit-24BAI10373.git
+
 
 ### Step 2: Navigate into folder
-cd oss-audit-24BEY10099
+cd oss-audit-24bai10373
 
 ### Step 3: Give permission
 chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
