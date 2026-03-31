@@ -42,7 +42,7 @@ Filename: script4.sh
 
 ### Script5: Open Source Manifesto Generator  
 Filename: script5.sh  
-Output: manifesto_yash_kudesia.txt  
+Output: manifesto_nikhilVerma.txt  
 - Takes user input  
 - Generates a personalized open-source manifesto  
 
@@ -50,7 +50,7 @@ Output: manifesto_yash_kudesia.txt
 ## How to Run
 
 ### Step 1: Clone the repository
-git clone https://github.com/Yash-coder3112/oss-audit-24BEY10099.git
+git clone https://github.com/nikhilvermaislive-arch/oss-audit-24BAI10373.git
 
 ### Step 2: Navigate into folder
 cd oss-audit-24BEY10099
